@@ -53,15 +53,6 @@ CHE_COMMAND = ("chemistry")
 # default message in-case of None types
 DEFAULT_START_TEXT = (
     "Hi. ☺️\n"
-    "Thank you for using me 😬\n\n"
-    "This is a bot created by satya to share answers in notification "
-    "due to warnings by exam page when changing screen\n\n\n"
-    "still you can see answers in https://teletype.in/@Satyendra/Answers "
-    "and you need to wait till search answes in google 🤦‍♂️, "
-    "you can also request answers by sending qusten number eg: q.32 "
-    "please dont flood me "
-    "if any for the bot to function.\n\n\n"
-    "ℹ️ Subscribe @t24talkies if you 😍 using this bot❗️❣️"
 )
 DEFAULT_HELP_TEXT = (
     "np help for now check next week"
